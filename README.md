@@ -11,8 +11,8 @@ Requirements
 
 Python 3.3+ or Python 2.7
 Libraries,
-Keras
-PIL
-CV2
-Imagenet_utils
+Keras,
+PIL,
+CV2,
+Imagenet_utils,
 macOS or Linux (Windows not officially supported, but might work)
